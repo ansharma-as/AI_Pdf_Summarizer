@@ -344,7 +344,8 @@ pip install -r requirements.txt
 
 - **Issues**: [GitHub Issues](https://github.com/your-username/AI_Pdf_Summarizer/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/ansharma-as/AI_Pdf_Summarizer/discussions)
-- **Email**: support@your-domain.com
+
+- **Email**: anshsharma456123@gmail.com
 
 ## 🗺️ Roadmap
 
